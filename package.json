@@ -1,0 +1,20 @@
+{
+  "name": "authScotch",
+  "version": "1.0.0",
+  "description": "Authentication via Node using Scotch.io tutorial   https://scotch.io/tutorials/easy-node-authentication-setup-and-local",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjoe19/authScotch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjoe19/authScotch/issues"
+  },
+  "homepage": "https://github.com/rjoe19/authScotch#readme"
+}
